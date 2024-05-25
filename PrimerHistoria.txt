@@ -1,0 +1,5 @@
+1.	Historia de usuario: Como estudiante quiero recibir notificaciones sobre la finalización del préstamo de los libros para evitar las sanciones por el vencimiento del plazo y poder entregar los libros en tiempo y forma.
+-	criterios de aceptación: 
+o	El préstamo del libro debe estar dado de alta dentro del sistema previamente. 
+o	El mensaje debe ser enviado 24 horas antes de que finalice el plazo del libro. 
+o	El mensaje tiene que llegar por un medio de mensajería convencional. 
